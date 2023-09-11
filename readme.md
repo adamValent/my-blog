@@ -15,18 +15,6 @@ Requirements
   Apache web server and MySQL service in a single package and is (in my opinion) the best for PHP development.
 
 
-Installation
-------------
-
-The best way to install Web Project is using Composer. If you don't have Composer yet,
-download it following [the instructions](https://doc.nette.org/composer). Then use command:
-
-	composer create-project nette/web-project path/to/install
-	cd path/to/install
-
-Make directories `temp/` and `log/` writable.
-
-
 Web Server Setup
 ----------------
 
